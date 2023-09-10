@@ -1,0 +1,25 @@
+{
+  "name": "aries-playground-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aries-framework/core": "^0.4.1",
+    "@aries-framework/indy-sdk": "^0.4.1",
+    "@aries-framework/node": "^0.4.1",
+    "@types/node": "20.5.9",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "indy-sdk": "^1.16.0-dev-1655",
+    "next": "13.4.19",
+    "node-fetch": "^3.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.2.2"
+  }
+}
